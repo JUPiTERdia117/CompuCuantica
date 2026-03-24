@@ -1,6 +1,6 @@
 # CompuCuantica ✨
 
-Holiii. Este es mi repositorio de **Computación Cuántica**.
+Holiii profa:3 . Este es mi repositorio de **Computación Cuántica**.
 
 Aquí voy guardando mis prácticas de lab.
 Para revisar algo, solo entrar a la carpeta de la práctica a revisar y abrir el notebook correspondiente (Ej para la práctica 1: "Prac1/Prac1.ipynb").
