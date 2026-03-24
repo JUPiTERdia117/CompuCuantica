@@ -11,7 +11,7 @@ PD: Acabo de darme cuenta que el notebook de la Práctica 1 es el único con un 
 ## 📂 Contenido del repo:
 - Prácticas organizadas por carpetas
 - Notebooks con ejercicios y desarrollo
-- Código y resultados de la materia
+- Código y resultados comentados.
 
 ## 👩‍💻 Yo
 **Monroy Salazar Diana Jupiter**  
