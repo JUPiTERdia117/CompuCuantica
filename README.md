@@ -1,11 +1,16 @@
-# CompuCuantica
+# CompuCuantica ✨
 
-Repositorio donde se almacenan las prácticas y notebooks de la materia de **Computación Cuántica**.
+Holiii. Este es mi repositorio de **Computación Cuántica**.
 
-## Cómo consultar el contenido
-1. Entra a la carpeta de la práctica que quieras revisar.
-2. Abre el notebook correspondiente.
+Aquí voy guardando mis prácticas de lab.
+Para revisar algo, solo entrar a la carpeta de la práctica a revisar y abriri el notebook correspondiente (Ej para la práctica 1: "Prac1/Prac1.ipynb").
+No hay más misterio jeje;)
 
-## Información de la alumna
-- **Nombre:** Monroy Salazar Diana Jupiter
-- **Número de cuenta:** 315118894
+## 📂 Contenido del repo:
+- Prácticas organizadas por carpetas
+- Notebooks con ejercicios y desarrollo
+- Código y resultados de la materia
+
+## 👩‍💻 Yo
+**Monroy Salazar Diana Jupiter**  
+**No. de cuenta:** 315118894
