@@ -6,6 +6,8 @@ Aquí voy guardando mis prácticas de lab.
 Para revisar algo, solo entrar a la carpeta de la práctica a revisar y abrir el notebook correspondiente (Ej para la práctica 1: "Prac1/Prac1.ipynb").
 No hay más misterio jeje;)
 
+PD: Acabo de darme cuenta que el notebook de la Práctica 1 es el único con un nombre diferente Dx
+
 ## 📂 Contenido del repo:
 - Prácticas organizadas por carpetas
 - Notebooks con ejercicios y desarrollo
